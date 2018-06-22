@@ -18,9 +18,10 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
+  
+   <jacoco-maven-plugin.version>0.7.4.201502262128</jacoco-maven-plugin.version>
 
 <build>
-  <jacoco-maven-plugin.version>0.7.4.201502262128</jacoco-maven-plugin.version>
   <plugins>
   <plugin>
       <groupId>org.jacoco</groupId>
