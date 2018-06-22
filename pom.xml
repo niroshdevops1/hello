@@ -46,11 +46,8 @@
      </executions>
    </plugin>
   </plugins>
-  </build>
-
-
+  </build> 
   
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
